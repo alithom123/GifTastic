@@ -1,7 +1,7 @@
 $(document).ready(function() {
   // Api info
   var apiKey = "LkOgC0Tu9Sx4yjFXKSCDStyZKhdxBqq3";
-  var apiDomain = "http://api.giphy.com/v1/gifs/search";
+  var apiDomain = "https://api.giphy.com/v1/gifs/search";
   var apiUrl = "";
   var apiQuery = "";
   var apiQueryParameters = [];
